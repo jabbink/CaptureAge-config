@@ -1,0 +1,13 @@
+{
+    "result": {
+        "newsItems": [
+            {
+                "body": "Check the official website for news.",
+                "date": 1755700000000,
+                "featureGraphic": "",
+                "title": "No news"
+            }
+        ]
+    },
+    "success": true
+}

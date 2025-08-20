@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": {
+    "newToken": "eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJyZXNwb25zZSI6eyJ1c2VybmFtZSI6IkNhcHR1cmVBZ2UiLCJoYXNCZXRhQWNjZXNzIjp0cnVlLCJoYXNBY2Nlc3MiOnRydWUsImNvbnRyb2xsZWRGZWF0dXJlcyI6eyJlbmFibGUiOlsic2NydWJiaW5nIiwidW5pdEZvbGxvdyIsImFkdmFuY2VkU3RhdHNDaGFydCJdLCJncmFudFNraW5zIjpbXSwiYXZhaWxhYmxlU2tpbnMiOlsiZGVmYXVsdCIsInBybyJdLCJzdWJzY3JpcHRpb25MZXZlbCI6MywibG9nbyI6InZpcCJ9LCJvZmZsaW5lIjp0cnVlfSwiaWF0IjoxNzAwMDAwMDAwLCJleHAiOjIwMDAwMDAwMDAsImF1ZCI6ImNhZGUiLCJpc3MiOiJ3ZWJzaXRlIiwic3ViIjoiQ2FwdHVyZUFnZSIsImp0aSI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCJ9.2gDvs-sO5AZ8PugFE7LbCIpQd7MynoB2wiOIZIyEV0Mack2F2e4LuHY9yzenws_t6Ve-_rQMFTxUsXh_tt5lD3albM-PRftJtZyCeXUcsjN5XdY3vyMUqQagYljun0LS",
+    "userInfo": {
+      "username": "CaptureAge",
+      "hasBetaAccess": true,
+      "hasAccess": true,
+      "controlledFeatures": {
+        "enable": ["scrubbing", "unitFollow", "advancedStatsChart"],
+        "grantSkins": [],
+        "availableSkins": ["default", "pro"],
+        "subscriptionLevel": 3,
+        "logo": "vip"
+      },
+      "offline": true,
+      "token": "eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJyZXNwb25zZSI6eyJ1c2VybmFtZSI6IkNhcHR1cmVBZ2UiLCJoYXNCZXRhQWNjZXNzIjp0cnVlLCJoYXNBY2Nlc3MiOnRydWUsImNvbnRyb2xsZWRGZWF0dXJlcyI6eyJlbmFibGUiOlsic2NydWJiaW5nIiwidW5pdEZvbGxvdyIsImFkdmFuY2VkU3RhdHNDaGFydCJdLCJncmFudFNraW5zIjpbXSwiYXZhaWxhYmxlU2tpbnMiOlsiZGVmYXVsdCIsInBybyJdLCJzdWJzY3JpcHRpb25MZXZlbCI6MywibG9nbyI6InZpcCJ9LCJvZmZsaW5lIjp0cnVlfSwiaWF0IjoxNzAwMDAwMDAwLCJleHAiOjIwMDAwMDAwMDAsImF1ZCI6ImNhZGUiLCJpc3MiOiJ3ZWJzaXRlIiwic3ViIjoiQ2FwdHVyZUFnZSIsImp0aSI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCJ9.2gDvs-sO5AZ8PugFE7LbCIpQd7MynoB2wiOIZIyEV0Mack2F2e4LuHY9yzenws_t6Ve-_rQMFTxUsXh_tt5lD3albM-PRftJtZyCeXUcsjN5XdY3vyMUqQagYljun0LS"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "result": {
+        "updateNotes": [
+            {
+                "date": 1755700000000,
+                "items": [
+                    {
+                        "header": "Updates on website",
+                        "items": [
+                            "Check the official website for updates"
+                        ]
+                    },
+                    {
+                        "details": "No updates here",
+                        "header": "",
+                        "items": []
+                    }
+                ],
+                "version": "1.20.0"
+            }
+        ]
+    },
+    "success": true
+}
